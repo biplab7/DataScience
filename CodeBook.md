@@ -29,7 +29,7 @@ The code run_analysis.R can be used for the solution of these problem
 4.As the dataset created earlier had subject and label in the begining the mean and the sandard deviations from the data is extracted.
 5. The labels are read from the activity_labels.txt and the labels in teh data aare then replaced with these extracted labels.
 6. Then the mean is calculated for each combination of subject and label.
-7. Finally the data is written into tidy2.txt
+7. Finally the data is written into tidy.txt
 
 
 
